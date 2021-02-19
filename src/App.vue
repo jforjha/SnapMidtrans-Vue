@@ -8,7 +8,8 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-const midtransClient = require('midtrans-client');
+import midtransClient from 'midtrans-client';
+// const midtransClient = require('midtrans-client');
 
 export default {
   name: 'App',
